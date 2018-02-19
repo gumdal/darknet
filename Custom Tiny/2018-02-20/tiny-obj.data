@@ -1,5 +1,0 @@
-classes= 1
-train = tiny-train.txt
-valid = tiny-test.txt
-names = cfg/tiny-obj.names
-backup = tiny-backup/
