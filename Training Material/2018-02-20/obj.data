@@ -1,5 +1,0 @@
-classes= 2
-train = PascalVOCData/train.txt
-valid = PascalVOCData/test.txt
-names = PascalVOCData/cfg/obj.names
-backup = PascalVOCData/backup/2018-02-20
